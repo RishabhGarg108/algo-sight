@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import AlgoSight from "./components/AlgoSight";
+import Home from "./components/Home";
 
 function App() {
   return (
     <div>
-      <AlgoSight />
+      <Home />
     </div>
   );
 }

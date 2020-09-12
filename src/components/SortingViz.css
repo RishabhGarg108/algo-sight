@@ -1,0 +1,22 @@
+.array-bar {
+  width: 7px;
+  background-color: blue;
+  margin-left: 1px;
+  margin-right: 1px;
+  display: inline-block;
+}
+
+.header {
+  height: 50px;
+  background-color: orange;
+  margin-bottom: 20px;
+}
+
+.container {
+  position: relative;
+}
+
+.body {
+  position: absolute;
+  bottom: -500px;
+}
